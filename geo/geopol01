@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>우크라이나 전쟁 종전과 한민족의 미래 (영상 포함 최종본)</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.8;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            font-size: 2.2em;
+            color: #1a237e;
+            text-align: center;
+            border-bottom: 3px solid #1a237e;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 1.8em;
+            color: #3f51b5;
+            margin-top: 50px;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        h3 {
+            font-size: 1.4em;
+            color: #5c6bc0;
+            margin-top: 30px;
+            border-left: 5px solid #5c6bc0;
+            padding-left: 10px;
+        }
+        p {
+            font-size: 1.1em;
+            text-align: justify;
+            margin-bottom: 1em;
+        }
+        strong {
+            color: #c62828;
+            font-weight: 600;
+        }
+        ul, ol {
+            padding: 15px 20px 15px 40px;
+            background-color: #f0f4f8;
+            border-radius: 8px;
+            margin-bottom: 1.5em;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        blockquote {
+            border-left: 4px solid #ffa726;
+            padding: 10px 20px;
+            margin: 20px 0;
+            background-color: #fff3e0;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        details {
+            background-color: #eceff1;
+            border: 1px solid #cfd8dc;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            color: #263238;
+            font-size: 1.1em;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 25px auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .intro, .conclusion {
+            padding: 25px;
+            border-radius: 10px;
+        }
+        .intro { background-color: #e8eaf6; border: 1px solid #c5cae9; text-align: center; }
+        .conclusion { background-color: #e3f2fd; border: 1px solid #bbdefb; }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>[우크라이나 전쟁 종전] 한민족의 미래를 결정한다</h1>
+
+    <div class="video-container">
+        <iframe 
+            src="https://www.youtube.com/embed/B0crFg82jc4" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+        </iframe>
+    </div>
+
+    <p class="intro"><strong>발표: 김태유 서울대학교 명예교수 (문명사학자)</strong></p>
+
+    <h2>서론: 저력 있는 민족, 그러나 3대 저주를 타고나다</h2>
+    <p>우리 민족은 고조선, 고구려, 고려에 이르기까지 동북아 대륙의 패권국에 가장 많이 도전하고 승리한 강력한 저력의 민족입니다. 이는 침략당한 역사가 아니라, <strong>'동북아 월드컵' 결승에 가장 많이 진출한 강자의 역사</strong>입니다.</p>
+    <img src="https://i.ibb.co/N60kyB0T/Screenshot-20250612-001401-You-Tube.jpg" alt="한민족의 저력: 역사적 대결 구도">
+    <p>하지만 이런 강력한 민족이 왜 국력이 쇠잔해졌을까요? 그 이유는 바로 <strong>지정학적 운명</strong>, 즉 우리가 타고난 세 가지 저주 때문입니다.</p>
+    
+    <ul>
+        <li><strong>연안국(沿岸國)의 저주:</strong> 섬나라와 대륙국 사이에 끼어 끊임없이 침략받는 운명</li>
+        <li><strong>변방국(邊方國)의 저주:</strong> 세계 문명의 중심 길목에서 항상 비켜나 있었던 운명</li>
+        <li><strong>자원 빈국(資源貧國)의 저주:</strong> 산업에 필수적인 자원을 전적으로 단일 수송로에 의존하는 운명</li>
+    </ul>
+    <p>그러나 지금, 산업 사회의 도래와 지구 온난화라는 거대한 문명사적 전환을 통해 이 세 가지 저주를 <strong>축복으로 바꿀 수 있는 천금 같은 기회</strong>가 우리 앞에 찾아왔습니다.</p>
+
+    <h2>본론 1: 3대 저주를 3대 축복으로 전환할 기회</h2>
+
+    <h3>1. 연안국의 저주 → 강소국(强小國)의 축복으로</h3>
+    <p>농업 사회의 생존 방식이 토지를 뺏기 위한 <strong>‘원교근공(遠交近攻)’</strong>이었다면, 현대 산업 사회의 생존 방식은 자원, 기술 등을 교류하는 <strong>‘보완과 경쟁’</strong>입니다. 이 관점에서 주변 4강을 보면, 우리의 전략이 명확해집니다.</p>
+    <img src="https://i.ibb.co/39mdmtJP/Screenshot-20250612-001446-You-Tube.jpg" alt="산업사회의 지정학: 감속하는 농업사회 vs 가속하는 산업사회">
+    <ul>
+        <li><strong>경쟁 관계 (근공 近攻): 한-중, 한-일</strong>
+            <br>상품 경합도가 가장 높으며, 일본 우익은 '한반도는 일본의 이익선'이라 주장하고, 중국은 '한국은 역사적으로 중국의 일부'라는 인식을 보입니다.
+        </li>
+        <li><strong>보완 관계 (원교 遠交): 한-미, 한-러</strong>
+            <br>미국은 우리의 안보 동맹이자 기술/경제적 보완 파트너이며, 러시아는 우리가 가진 것을 갖고 있지 않고, 우리가 없는 것을 모두 가진 완벽한 보완 관계입니다.
+        </li>
+    </ul>
+    <p>따라서 우리는 <strong>‘한미러 합종(合從)’</strong>이라는 원교(遠交) 전략을 통해, 한중일의 경쟁(近攻) 구도를 극복하고 천년 묵은 지정학적 저주를 끊어낼 수 있습니다.</p>
+
+    <h3>2. 변방국의 저주 → 중심국(中心國)의 축복으로</h3>
+    <p>우리 선조들은 인류 문명의 중심에 설 기회가 단 한 번도 없었습니다. 이것이 변방국의 저주입니다.</p>
+    <details>
+        <summary>펼쳐보기: 문명의 길에서 소외된 한반도의 역사</summary>
+        <p>고대 장안에서 로마로 이어진 <strong>비단길</strong>, 이슬람과 르네상스 문명을 꽃피운 <strong>향신료길</strong>, 산업혁명을 이끈 <strong>대서양길</strong>까지, 인류 문명을 이끌었던 모든 길에서 한반도는 멀리 떨어져 있었습니다.</p>
+        <img src="https://i.ibb.co/DH2mDmtG/Screenshot-20250612-001647-You-Tube.jpg" alt="실크로드: 고대문명">
+        <img src="https://i.ibb.co/Mxfm5gqK/Screenshot-20250612-001639-You-Tube.jpg" alt="향신료 루트: 상업혁명">
+        <img src="https://i.ibb.co/YTfXZ26H/Screenshot-20250612-001712-You-Tube.jpg" alt="대서양 항로: 산업혁명과 변방국의 운명">
+    </details>
+    <p>하지만 지구 온난화로 <strong>북극항로</strong>가 열리고 있습니다. 이 항로의 <strong>거점 항구(부울경)</strong>를 우리가 확보한다면, 한반도는 유라시아 대륙과 태평양을 잇는 물류의 중심, 즉 <strong>인류 문명의 새로운 중심 국가</strong>로 발돋움할 수 있습니다.</p>
+    <img src="https://i.ibb.co/fzKQRbg2/Screenshot-20250612-001741-You-Tube.jpg" alt="북극항로와 수에즈 운하 항로 비교">
+    <img src="https://i.ibb.co/DHFVjbXq/Screenshot-20250612-001756-You-Tube.jpg" alt="한반도 거점항구로서의 부울경">
+
+    <h3>3. 자원 빈국의 저주 → 산업 대국(産業大國)의 축복으로</h3>
+    <p>산업이 자원보다 중요하며, 한국에게 진정한 자원의 저주는 자원이 없는 것이 아니라, 자원을 들여오는 <strong>생명선이 단 하나뿐이라는 것</strong>입니다.</p>
+    <img src="https://i.ibb.co/Y7snbVCK/Screenshot-20250612-001915-You-Tube.jpg" alt="자원의 저주와 산업의 축복: 국가별 비교">
+    <details>
+        <summary>펼쳐보기: '자원의 저주'란? (네덜란드 병)</summary>
+        <p>자원의 저주(Dutch Disease)란, 천연자원의 수출로 인해 경제가 일시적으로는 호황을 누리지만, 결국 물가와 임금 상승으로 국내 제조업의 경쟁력이 약화되어 오히려 경제 침체를 겪는 현상을 의미합니다. 1959년 북해 유전 개발 후 네덜란드가 겪은 현상에서 유래했습니다.</p>
+        <img src="https://i.ibb.co/Y4F4X8FB/Screenshot-20250612-001819-You-Tube.jpg" alt="자원의 저주(DUTCH DISEASE) 설명">
+    </details>
+    <p>대만 해협 유사시, 한국은 전쟁 당사국이 아님에도 GDP가 -23.3% 감소하는 치명타를 입습니다. 북극항로는 이 남방 항로에 대한 완벽한 대체재이자 <strong>'생명선 2호'</strong>입니다.</p>
+    <img src="https://i.ibb.co/hJ1rBLqz/Screenshot-20250612-002012-You-Tube.jpg" alt="중국의 대만 침공 시 주요국 GDP 충격 전망">
+    
+    <img src="https://i.ibb.co/VYzd5rRw/Screenshot-20250612-002124-You-Tube.jpg" alt="제1부 결론: 3대 저주와 한미러 합종 해법">
+
+    <h2>본론 2: '한미러 합종'은 왜 필연적 선택인가?</h2>
+    
+    <h3>강대국의 패권 전략: 1-3-5 전략</h3>
+    <p>패권국은 항상 2위 도전자를 견제하기 위해 3위 그룹과 연합합니다. 이것이 바로 <strong>'1-3 전략'</strong>입니다. 우리 같은 강소국은 1군(미국), 3군(한국), 5군(러시아 등 자원 부국)이 연대하는 <strong>'1-3-5 전략'</strong>으로 2군(EU, 일본)과 4군(중국, 개도국)의 도전을 극복해야 합니다.</p>
+    <details>
+        <summary>펼쳐보기: 강대국 패권 전략의 역사</summary>
+        <p>패권국은 신흥 강대국을 견제(<strong>투키디데스의 함정</strong>)하거나, 국제적 리더 역할을 포기하여 위기를 초래(<strong>킨들버거의 함정</strong>)하지 않으려 합니다. 미국은 소련 견제를 위해 마셜플랜으로 독일/일본을 지원했고, 일본의 부상에는 플라자 합의로, 중국의 부상에는 무역/기술 규제로 대응했습니다. 이 모든 것이 '1-3 전략'의 일환입니다.</p>
+        <img src="https://i.ibb.co/RG2mvSH5/Screenshot-20250612-002427-You-Tube.jpg" alt="강대국의 패권전략: 투키디데스, 킨들버거, 그리고 미국의 전략">
+        <img src="https://i.ibb.co/qM8cD00n/Screenshot-20250612-012255-You-Tube.jpg" alt="미국의 1-3 전략과 한국의 1-3-5 전략">
+    </details>
+
+    <h3>미국의 세계 경영과 중국 포위 전략</h3>
+    <p>미국은 위기를 기회로 만드는 데 능숙한 나라입니다. 지금 미국의 과제는 중국의 도전이며, 러우 전쟁은 이 과제를 해결할 결정적 계기입니다.</p>
+    <details>
+        <summary>펼쳐보기: 위기를 기회로 바꾼 미국 패권의 역사</summary>
+        <p>미국은 2차 대전 후 '브레튼우즈 체제'로, 석유 위기 때는 '페트로 달러' 체제로, 9.11 테러 이후에는 중동에 직접 개입하며 패권을 유지해왔습니다. 이제 셰일 혁명 이후, 러우 전쟁을 통해 러시아를 유럽에서 떼어내고, 러시아산 에너지 대신 미국산을 유럽에 공급하며, 최종적으로는 러시아를 포섭하여 '대중국 포위망'을 완성하려 하고 있습니다.</p>
+        <img src="https://i.ibb.co/S4LDg1S1/Screenshot-20250612-012547-You-Tube.jpg" alt="미국의 세계 경영: 석유자원 분포와 페트로달러">
+        <img src="https://i.ibb.co/yckVVLMH/Screenshot-20250612-013006-You-Tube.jpg" alt="미국 패권의 역사: 4단계 요약">
+    </details>
+    <p>트럼프의 대중국 포위 전략이 유럽의 비협조로 난항을 겪었다면, 바이든은 러우 전쟁을 계기로 나토와 인도-태평양 국가들을 묶어 러시아와 중국을 동시에 압박하고 있습니다.</p>
+    <img src="https://i.ibb.co/hJ9H3PW6/Screenshot-20250612-012720-You-Tube.jpg" alt="트럼프의 중국 포위전략">
+    <img src="https://i.ibb.co/vv3wrXLD/Screenshot-20250612-012831-You-Tube.jpg" alt="바이든의 중국 포위전략">
+
+    <h3>한미러 합종이 성공할 수밖에 없는 이유</h3>
+    <p>이러한 국제 정세 속에서 한미러 합종은 각국의 '불가피한 선택'이 됩니다.</p>
+    <img src="https://i.ibb.co/8ng1JBNR/Screenshot-20250612-013126-You-Tube.jpg" alt="한미러 합종이 꼭 성공하는 이유: 각국의 불가피한 선택">
+    <ul>
+        <li><strong>미국의 선택 (불가피):</strong> 중국 포위를 완성하기 위해 러시아의 협력이 반드시 필요합니다.</li>
+        <li><strong>러시아의 선택 (불가피):</strong> 유럽과 등진 러시아가 동쪽에서 살 길을 찾기 위해, 중국과 일본을 제외하면 선택지는 한국뿐입니다.</li>
+        <li><strong>한국의 선택 (불가피):</strong> 3대 저주를 극복하고 생존하기 위해 우리에게도 유일한 해법입니다.</li>
+    </ul>
+
+    <blockquote>
+        러우 전쟁이 끝나면, 미국은 대중국 포위망 완성을 위해 러시아에 대한 제재를 전격적으로 풀 것입니다. 트럼프가 되면 더 빨리, 바이든이라도 결국 풀게 될 것입니다. 이는 제 개인의 명예를 걸고 확신할 수 있습니다.
+    </blockquote>
+
+    <h2>결론: 천년의 기회, 속도가 생명이다</h2>
+    <div class="conclusion">
+        <img src="https://i.ibb.co/QFFNCFGk/Screenshot-20250612-013345-You-Tube.jpg" alt="종합 결론: 한미러 합종을 통한 문제 해결">
+        <p>연안국, 변방국, 자원 빈국의 3대 지정학적 저주를 일거에 해결할 열쇠는 바로 <strong>‘한미러 합종’</strong>입니다. 이는 이 시대를 살아가는 우리에게 주어진 문명사적, 역사적 소명입니다.</p>
+        <p>가장 큰 위험은, 이 기회의 최대 수혜자가 될 우리가 이 기회를 알아보지 못하고 <strong>행동하지 않는 것</strong>입니다. 힘(F)은 질량(m) 곱하기 가속도(a)입니다. 우리는 강대국보다 질량이 작기에, 남들보다 몇 배 빠른 <strong>가속도(속도)</strong>로 움직여야만 더 큰 힘을 낼 수 있습니다. <strong>빨리 서둘러야 합니다.</strong></p>
+        <ol>
+            <li><strong>북극항로 거점 항구(부울경)를 선점</strong>하고 준비해야 합니다.</li>
+            <li>서방이 외면한 <strong>러시아의 값싼 자원을 선점</strong>하고 안보 역량을 함께 구축해야 합니다.</li>
+            <li>우크라이나 재건 사업이 아닌, 경쟁력 있는 서방 기업들이 떠난 <strong>거대한 러시아 시장을 선점</strong>해야 합니다.</li>
+        </ol>
+        <p>이 자리에 계신 여러분들이 해주시지 않으면 아무도 할 수 없습니다. 지금 우리의 선택이 우리 후손들의 천년 미래를 결정할 것입니다. 감사합니다.</p>
+    </div>
+
+</body>
+</html>
